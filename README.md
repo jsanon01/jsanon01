@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm JeanBaptiste Sanon 👋
+- AWS Solution Architect Certified
+- 🌱 I’m currently learning AWS Cloud DevOps Engineer Nanodegree program
 
 <!--
 **jsanon01/jsanon01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
